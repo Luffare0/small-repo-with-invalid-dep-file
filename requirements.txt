@@ -14,4 +14,4 @@ requests_html==0.10.0
 semantic_version==2.8.4
 PyYAML==5.3.1
 urllib3==1.24.1
-pysaml2==
+pysaml2
